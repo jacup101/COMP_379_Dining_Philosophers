@@ -1,5 +1,6 @@
 # Dining Philosophers
 Arduino + Raspberry Pi to provide a visual representation for the Dining Philosophers Problem
+Group Members: Joshua, Shangli, Neython, Jordan, David
 ## Premise
 For this project, we decided to examine how small form factor systems commonly used in projects, like the Arduino and Raspberry Pi devices, interact with operating systems. As a part of this, we decided to program the dining philosophers problem and use it to show a visual representation on LEDs.
 ## The Dining Philosopher Problem
