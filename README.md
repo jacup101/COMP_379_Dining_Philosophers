@@ -1,5 +1,6 @@
 # Dining Philosophers
 Arduino + Raspberry Pi to provide a visual representation for the Dining Philosophers Problem
+
 Group Members: Joshua, Shangli, Neython, Jordan, David
 
 __Note that this code is meant to run on a Raspberry Pi 4 working with an Arduino Uno, which has Standard Firmata flashed to it. There is no guarantee that the code will work on any other devices__
