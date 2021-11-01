@@ -1,8 +1,8 @@
 # Dining Philosophers
 Arduino + Raspberry Pi to provide a visual representation for the Dining Philosophers Problem
 Group Members: Joshua, Shangli, Neython, Jordan, David
-\n
-**Note that this code is meant to run on a Raspberry Pi 4 working with an Arduino Uno, which has Standard Firmata flashed to it. There is no guarantee that the code will work on any other devices**
+
+__Note that this code is meant to run on a Raspberry Pi 4 working with an Arduino Uno, which has Standard Firmata flashed to it. There is no guarantee that the code will work on any other devices__
 ## Premise
 For this project, we decided to examine how small form factor systems commonly used in projects, like the Arduino and Raspberry Pi devices, interact with operating systems. As a part of this, we decided to program the dining philosophers problem and use it to show a visual representation on LEDs.
 ## The Dining Philosopher Problem
