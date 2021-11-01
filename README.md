@@ -5,7 +5,7 @@ Group Members: Joshua, Shangli, Neython, Jordan, David
 
 __Note that this code is meant to run on a Raspberry Pi 4 working with an Arduino Uno, which has Standard Firmata flashed to it. There is no guarantee that the code will work on any other devices__
 ## Premise
-For this project, we decided to examine how small form factor systems commonly used in projects, like the Arduino and Raspberry Pi devices, interact with operating systems. As a part of this, we decided to program the dining philosophers problem and use it to show a visual representation on LEDs.
+For this project, we decided to examine how small form factor systems commonly used in projects, like the Arduino and Raspberry Pi devices, interact with operating systems. As a part of this, we decided to program the dining philosophers problem and use the rasberry pi and arduino to show a visual representation on LEDs.
 ## The Dining Philosopher Problem
 The Dining Philosopher Problem is a problem where N philosophers and N forks are arranged in a circle, such that each philosopher has a fork to their right and left. Each philosopher eats and thinks, and to eat, they must have both the left and right fork. The problem is that many solutions lead to a deadlock, where each philosopher is stuck in a state where they can not eat. One solution involves the use of semaphores, which help prevent deadlock. 
 ## Code
